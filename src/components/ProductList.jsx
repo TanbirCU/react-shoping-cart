@@ -5,6 +5,7 @@ const products=[
     { id:2,name:"Phone",price:1890 },
     { id:3,name:"Headphones",price:8910 },
     { id:4,name:"keyboard",price:89340 },
+    { id:5,name:"Mouse",price:8440 },
 ]
 
 export default function ProductList(){
